@@ -8,10 +8,20 @@ The purpose of this analysis is to understand how select stocks performed and ul
 
 ## Results
 -	In 2017, the majority of stocks yielded a positive return with DQ yielding the highest return at 199.4%.
+  - ![](Resources/2017_Results.png)
 
--	Using the original script, we can see that the execution time for 2017 was 0.2578125 seconds whereas the refactored script was able to run in .046875 seconds. 
--	In 2018, only 2 stocks yielded a positive return, ENPH and RUN. Comparatively, DQ had the worst return rate that year at -62.6%. 
--	Using the original script, we can see that the execution time for 2018 was .2578125 seconds whereas the refactored script was able to run in .046875 seconds. 
+-	Using the original script, we can see that the execution time for 2017 was 0.2578125 seconds whereas the refactored script was able to run in .046875 seconds.
+  - ![](Resources/VBA_Challenge_Original_2017.png)
+
+  - ![](Resources/VBA_Challenge_2017.png)
+
+-	In 2018, only 2 stocks yielded a positive return, ENPH and RUN. Comparatively, DQ had the worst return rate that year at -62.6%.
+  - ![](Resources/2018_Results.png)
+
+-	Using the original script, we can see that the execution time for 2018 was .2578125 seconds whereas the refactored script was able to run in .046875 seconds.
+  - ![](Resources/VBA_Challenge_Original_2018.png)
+
+  - ![](Resources/VBA_Challenge_2018.png)
 
 ## Summary
 ### Advantages and disadvantages of refactoring code
